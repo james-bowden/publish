@@ -5,7 +5,9 @@ I'm writing a note!
 ![[Pasted image 20250116150311.png|250]]
 
 here's some math $f(x) = t^{2}$
-$$KLD \Rightarrow \frac{4}{b}$$
+$$
+KLD \Rightarrow \frac{4}{b}
+$$
 and maybe lets just try linking to something inside of this 
 [[hello-world]]
 ![[hello-world]]
